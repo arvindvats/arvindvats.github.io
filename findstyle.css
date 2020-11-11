@@ -1,0 +1,80 @@
+
+
+
+header{
+	border-radius: 10px;
+}
+
+
+nav .container{
+	background-color: black;
+	border-radius: 20px;
+}
+
+.nav-comp{
+  color: gold;
+	
+}
+
+.navbar-brand{
+        /*color: brown;*/
+        border-bottom: 1px solid grey;
+        border-right: 1px solid grey;
+        padding-right: 33px;
+        box-shadow: 2px 5px 5px grey;
+        font-family: 'georgia', cursive;
+        background-color: rgba(0,0,0,0.1);
+        transition: all 0.3s;
+        border-radius: 10px;
+    }
+
+ .navbar-brand img{
+ 	border-radius: 40px;
+ }
+
+    .find-color{
+    	color: gold;
+    }
+
+ ul li+p{
+ 	border-radius: 10px;
+ }
+
+ .hero-full-container{
+ 	background-color: black;
+ }
+
+ .white-text-container{
+ 	background-color: black;
+ }
+
+ .background-image-container{
+ 	background-color: black;
+ }
+
+ .black{
+ 	background-color: rgba(0,0,0,0.7);
+ 	border: 2px solid #CED01E;
+ 	border-radius: 500px;
+ 	box-shadow: 5px 5px 4px #CED01E;
+
+ }
+
+ .text-center h2{
+ 	border-top: 2px solid gold;
+ 	border-right: 2px solid gold;
+ 	border-left: 2px solid gold;
+ 	padding-top: 20px;
+ 	border-radius: 20px;
+ 	box-shadow: 4px -4px 6px  gold;
+ 	/*margin-bottom: 0;*/
+
+ }
+
+ .text-center p{
+ 	background-color: rgba(0,0,0,0.1);
+ 	border-radius: 20px;
+ 	margin-top: 0 ;
+ 	color: black;
+ 	box-shadow: 6px 8px 6px  grey;
+ }
